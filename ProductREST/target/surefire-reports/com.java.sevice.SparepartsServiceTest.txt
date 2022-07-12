@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: com.java.sevice.SparepartsServiceTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 5, Errors: 0, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in com.java.sevice.SparepartsServiceTest
+testGet  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.java.sevice.SparepartsServiceTest.testGet(SparepartsServiceTest.java:21)
+
+testSave  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.java.sevice.SparepartsServiceTest.testSave(SparepartsServiceTest.java:16)
+
+testListAll  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.java.sevice.SparepartsServiceTest.testListAll(SparepartsServiceTest.java:11)
+
+testDelete  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.java.sevice.SparepartsServiceTest.testDelete(SparepartsServiceTest.java:26)
+
+testUpdate  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.java.sevice.SparepartsServiceTest.testUpdate(SparepartsServiceTest.java:31)
+

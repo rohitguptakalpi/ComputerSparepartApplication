@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.java.sevice.ProductServiceTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 4.189 s <<< FAILURE! - in com.java.sevice.ProductServiceTest
+testProductNotAvailable  Time elapsed: 0.04 s  <<< ERROR!
+java.util.NoSuchElementException: No value present
+	at com.java.sevice.ProductServiceTest.testProductNotAvailable(ProductServiceTest.java:75)
+
