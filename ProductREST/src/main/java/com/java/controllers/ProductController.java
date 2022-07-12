@@ -93,13 +93,5 @@ public class ProductController {
 		}
 
 	}
-//	@DeleteMapping("/delete/all")
-//	public ResponseEntity<String> deleteAll(){
-//		service.deleteall();
-//		logger.debug("All product are deleted");
-//		return new ResponseEntity<String>("All product are deleted", HttpStatus.OK);
-//
-//		
-//		
-//	}
+
 }
